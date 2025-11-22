@@ -1384,7 +1384,7 @@ git push origin feature/NouvelleFeature
 
 ## 📝 Licence
 
-Ce projet est développé dans un cadre **académique** à l'**ENSIAS** (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes).
+Ce projet est développé dans un cadre **académique** .
 
 ### Utilisation Académique
 
@@ -1398,31 +1398,13 @@ Ce projet est développé dans un cadre **académique** à l'**ENSIAS** (École 
 - ❌ Revente du code source
 - ❌ Suppression des attributions
 
-### Crédits Obligatoires
 
-Si vous utilisez ce projet, merci de citer :
-```
-Projet 11 - Système de Gestion de Clinique
-Développé par Khadija
-ENSIAS - Université Mohammed V, Rabat
-Module : Génie Logiciel
-Année : 2024-2025
-```
 
 ---
 
-## 👨‍💻 Auteur
 
-### Informations
 
-**Nom** : Khadija  
-**Formation** : Data et Software Engineering  
-**École** : ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)  
-**Université** : Mohammed V - Rabat, Maroc  
-**Module** : Génie Logiciel  
-**Année Académique** : 2024-2025  
-
-### Compétences Développées
+## Compétences Développées
 
 - ✅ Architecture JEE (Servlets, JSP)
 - ✅ Modèle MVC
@@ -1435,11 +1417,6 @@ Année : 2024-2025
 
 ## 🙏 Remerciements
 
-### Institutions
-
-- 🎓 **ENSIAS** - École Nationale Supérieure d'Informatique et d'Analyse des Systèmes
-- 🏛️ **Université Mohammed V** - Rabat, Maroc
-- 👨‍🏫 **Professeurs du module Génie Logiciel** - Pour leur encadrement et expertise
 
 ### Technologies Open Source
 
@@ -1457,25 +1434,7 @@ Année : 2024-2025
 
 ---
 
-## 📞 Contact et Support
 
-### Signalement de Bugs
-
-Pour signaler un bug, veuillez ouvrir une **Issue** sur GitHub avec :
-- 📝 Description détaillée du bug
-- 🔄 Étapes pour reproduire
-- ✅ Comportement attendu
-- ❌ Comportement actuel
-- 📸 Captures d'écran (si applicable)
-- 💻 Environnement (OS, Java version, etc.)
-
-### Questions et Suggestions
-
-- 💬 **GitHub Issues** : Pour les questions techniques
-- 📧 **Email** : Pour les demandes privées
-- 🌟 **Discussions** : Pour les idées d'amélioration
-
----
 
 ## 🎯 Roadmap Future
 
@@ -1566,8 +1525,7 @@ Si ce projet vous a aidé, n'hésitez pas à lui donner une **étoile** ⭐ sur 
 
 ### 💙 Merci d'avoir consulté ce projet !
 
-**Fait avec 💻 et ☕ par Khadija**  
-**ENSIAS - Université Mohammed V**  
+**Fait avec 💻 et ☕ par Khadija Ait Oufkir**  
 **2024-2025**
 
 ---
